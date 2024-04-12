@@ -1,2 +1,1 @@
-# script-teste
-script testing
+# script teste 
